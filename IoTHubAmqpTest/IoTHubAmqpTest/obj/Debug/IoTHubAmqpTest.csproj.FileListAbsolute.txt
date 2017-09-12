@@ -1,0 +1,7 @@
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\bin\Debug\IoTHubAmqpTest.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\bin\Debug\IoTHubAmqpTest.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\bin\Debug\Amqp.NetCF35.dll
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\bin\Debug\Amqp.NetCF35.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\obj\Debug\IoTHubAmqpTest.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\IoTHub\IoTHubAmqpTest\IoTHubAmqpTest\obj\Debug\IoTHubAmqpTest.pdb
